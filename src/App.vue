@@ -19,6 +19,6 @@ dictStore.getDictData()
 
 <style lang="scss" scoped>
 .loading-icon {
-  width: 32px;
+  width: 30px;
 }
 </style>
