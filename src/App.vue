@@ -15,6 +15,7 @@ const appStore = useAppStore()
 appStore.initTheme()
 const dictStore = useDictStore()
 dictStore.getDictData()
+console.log(3333);
 </script>
 
 <style lang="scss" scoped>
